@@ -1,0 +1,25 @@
+.banner { 
+ background-image: linear-gradient( -225deg, rgba(0, 0, 0, 0.8) , rgba(0, 0, 0, 0.2));
+ background-image: url(../../images/font.jpeg);
+ color: black;
+ padding: 150px 0px;
+ background-size: cover;
+ background-position: propoerty;
+}
+
+.banner h1 {
+font-size:50px; 
+
+
+ 
+}
+
+
+.banner h2 {
+font-size: 25px; 
+margin-bottom: 40px;
+margin-top: 150px;
+ 
+}
+
+192655
